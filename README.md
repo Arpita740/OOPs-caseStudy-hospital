@@ -9,3 +9,4 @@ Questions:
 Create an abstract Employee class with private fields and abstract methods.
 Implement subclasses to calculate the specific salary for each type of employee.
 Write a main class that creates instances of each type of employee and calculates their salaries
+
